@@ -1,2 +1,1 @@
-# python-practice
 # backend-practice
